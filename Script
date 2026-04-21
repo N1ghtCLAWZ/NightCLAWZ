@@ -1,0 +1,19 @@
+						game:GetService("StarterGui"):SetCore("SendNotification", {
+							Title = "NightCLAWZ",
+							Text = "The script is down! Due to roblox Lua update.",
+							Button1 = "OK" ,
+							Duration = 4
+						})
+						game:GetService("StarterGui"):SetCore("SendNotification", {
+							Title = "NightCLAWZ",
+							Text = "Which that make Luraph broken. And leads the script to crashing.",
+							Button1 = "OK" ,
+							Duration = 4
+						})
+						game:GetService("StarterGui"):SetCore("SendNotification", {
+							Title = "NightCLAWZ",
+							Text = "Please wait until Luraph update. We are so sorry!",
+							Button1 = "OK" ,
+							Duration = 4
+						})
+setclipboard("https://discord.gg/sE6Ys8VCHY")
